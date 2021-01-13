@@ -1,0 +1,8 @@
+-> A tag <meta> não precisa de fechamento. Tem fechamento automático.
+
+-> <br> -> Tag para quebrar uma linha.
+
+-> <b> -> Tag para negrito.
+
+-> <h1> -> Tag para cabeçalho as tags h1, h2, h3, h4, h5, h6 diminuem o tamanho do cabeçalho.
+*utilizando a tag <h1> não é necessário uso de tag <br>

@@ -1,0 +1,8 @@
+<ul> </ul> -> lista não ordenada:
+	* <li> -> elementos que vão dentro da lista.
+	* <ul type = ""> -> define o tipo de marcador da lista (circle, square e etc)
+
+<!-- -- > -> para fazer comentários.
+
+<ol> -> lista ordenada:
+	*<ol type =""> muda a maneira de ordenação.(tipo: 1, a, A, i e I).

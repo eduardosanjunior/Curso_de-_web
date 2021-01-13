@@ -1,0 +1,12 @@
+<!doctype html> -> define que o site é do tipo html 5
+-> toda a página começa assim.
+
+<html </html>-> define a área do código html.
+
+<head> </head> -> Códigos que não necessariamente vão aparecer no site, eles podem mexer com movimentação do site.
+
+<body> </body> -> tudo que vai aparecer no site.
+
+<title> </title> -> nome do site na aba.
+
+<meta charset = "utf-8"> -> define as acentuações no site.
