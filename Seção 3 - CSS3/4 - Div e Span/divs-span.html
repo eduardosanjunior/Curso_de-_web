@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!-- Div ajuda a separa a estrutura | é do tipo bloc ele altera todo o bloco-->
+<!-- span é do tipo inline | Altera apenas a linha-->
+<html>
+	<head>
+		<title>classes e Ids</title>
+		<meta charset="utf-8">
+		<style type="text/css"> 
+			#topo{background: blue;}
+			#conteudo{background: red;}
+			#rodape{background: green;}
+			.azul{color: blue;}
+			.produto{
+				background: gray;
+				margin: 10px;
+			}
+
+		</style>
+
+	</head>
+	<body >
+		<div id="topo">
+			<img src="imagens/capcom.png" width="200">
+			<ul>
+				<li>Home</li>
+				<li>Produtos</li>
+				<li>Contato</li>
+			</ul>
+		</div>
+
+		<div id="conteudo">
+			<div class="produto">Produto 1</div>
+			<div class="produto">Produto 2</div>
+			<div class="produto">Produto 3</div>
+		</div>
+			<div id="conteudo">
+			<span class="produto">Produto 4</span>
+			<span class="produto">Produto 5</span>
+			<span class="produto">Produto 6</span>
+		</div>
+		<div id="rodape">
+			
+			Todos os <span class="azul">direitos</span> reservados
+		</div>
+		<span>
+			Eduardo
+		</span>
+	</body>
+</html>
