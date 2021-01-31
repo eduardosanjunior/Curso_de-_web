@@ -1,0 +1,35 @@
+#container{
+	color: #FFF;
+	width: 800px;
+	margin: 10px auto;
+}
+h1{
+	
+}
+p{
+	width: 300px;
+
+}
+body{
+	background: #007fc7;
+}
+
+.relative{
+	border: 1px solid red;
+	position: relative;
+	/* top, right, bottom, left */
+	/*top:-20px;
+	left: 80px;n*/
+	right: 20px;
+	bottom: 20px;
+}
+
+/* absolute se baseia o posicionamento baseado na posição no container q
+que o contem */
+.absolute{
+	position: relative;
+	border: 1px solid red;
+	top: 80px;
+	right: 20px;
+	background: #f2f2f2
+}

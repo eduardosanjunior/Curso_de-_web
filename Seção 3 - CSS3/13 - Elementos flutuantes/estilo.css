@@ -16,12 +16,31 @@
 	
 
 }
-
-.clear{
-	clear: left;
+body{
+	background: f4f4f4;
 }
 
+.clear{
+	clear: both;
+}
+
+
 #principal{
-	border: 5px solid red;
-	background: green;
+	width:  920px;
+	
+}
+.noticia{
+	background: #e5e5e5;
+	padding: 5px;
+	width: 280px;
+	margin: 7px;
+	float: left;
+}
+.imagem-galeria{
+	background: white;
+	width: 265px;
+	padding: 5px;
+	float: left;
+	margin: 15px;
+
 }
