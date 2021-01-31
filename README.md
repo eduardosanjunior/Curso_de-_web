@@ -1,7 +1,5 @@
 
 <h1 align="center"><b> Repositório de curso web</b></h1>
-
-
 <p align="center">Olá, tudo bem? </br>
 Esse é um repositório com intuito de guardar e dividir os conhecimentos
 que adquiri durante as aulas desse curso.
