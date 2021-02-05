@@ -1,0 +1,17 @@
+/* Herança e especificidade p{
+	color: blue;
+}
+
+p{
+	color: red;
+}
+*/
+
+
+*{
+	color: red;
+}
+
+h2{
+	color: blue;
+}
